@@ -1,4 +1,4 @@
-package com.yang.easy._001;
+package com.yang.easy;
 
 import java.util.HashMap;
 
